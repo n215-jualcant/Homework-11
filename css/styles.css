@@ -25,8 +25,19 @@ nav {
 }
 nav a {
   text-decoration: none;
-  color: #fff;
+  /* color: #fff; */
 }
 #app {
   padding: 50px;
+}
+
+.white-text {
+  color: #fff;
+}
+.blue-text {
+  color: #0000ff;
+}
+
+span {
+  font-size: 24px;
 }
